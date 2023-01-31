@@ -1,0 +1,12 @@
+channelId;CHANNEL_ID;24;^(.*)$;Y
+videoCategoryId;VIDEO_CATEGORY_ID;2;^([1-9]{1}([0-9]{1})?)$;Y
+channelViewCount;CHANNEL_VIEW_COUNT;10;^([1-9]{1}([0-9]{1,9})?)$;Y
+videoCount;VIDEO_COUNT;5;^([1-9]{1}([0-9]{1,4})?)$;Y
+subscriberCount;SUBSCRIBER_COUNT;7;^([1-9]{1}([0-9]{1,6})?)$;
+videoId;VIDEO_ID;11;^(.*)$;Y
+channelCommentCount;CHANNEL_COMMENT_COUNT;6;^([1-9]{1}([0-9]{1,5})?)$;N
+videoViewCount;VIDEO_VIEW_COUNT;8;^([1-9]{1}([0-9]{1,7})?)$;Y
+videoLikeCount;VIDEO_LIKE_COUNT;6;^([1-9]{1}([0-9]{1,5})?)$;N
+videoDislikeCount;VIDEO_DISLIKE_COUNT;5;^([1-9]{1}([0-9]{1,4})?)$;N
+videoPublished;VIDEO_PUBLISHED;16;^(0[1-9]|[12][0-9]|3[01])\/(0[1-9]|1[0-2])\/(19[0-9][0-9]|20[0-9][0-9]) (0[0-9]|1[0-9]|2[0-3]):[0-5][0-9]$;Y
+VideoCommentCount;VIDEO_COMMENT_COUNT;5;^([1-9]{1}([0-9]{1,4})?)$;N
